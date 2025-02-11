@@ -12,14 +12,12 @@
     width: 1490px;
     margin-top: 38px;
     margin-bottom: 40px;
-
-
 }
 
 .header-top h2 {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 28px;
+    font-size: 1.75rem;
     font-weight: 800;
     line-height: 33px;
     letter-spacing: 0%;
@@ -29,7 +27,7 @@
 .header-top button {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 20px;
+    font-size: 1.25rem
     font-weight: 600;
     line-height: 23px;
     letter-spacing: 0%;
@@ -37,7 +35,6 @@
     box-sizing: border-box;
     border: 1px solid rgb(13, 19, 33);
     border-radius: 8px;
-
     opacity: 0.8;
     padding: 17px 24px 17px 24px;
 
@@ -49,7 +46,6 @@
     width: 1485px;
     height: 652px;
     border-style: dashed ;
-
 }
 
 .hero-bg .hero-container {
@@ -57,7 +53,6 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-
 }
 
 .hero-bg .hero-container .img-a {
@@ -78,7 +73,7 @@
 .hero-container .hero-content h1 {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 48px;
+    font-size: 3rem;
     font-weight: 800;
     line-height: 68px;
     letter-spacing: 0%;
@@ -89,7 +84,7 @@
 .hero-container .hero-content p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0%;
@@ -102,7 +97,7 @@
 .hero-container .hero-content button {
     color: rgb(255, 255, 255);
     font-family: Azeret Mono;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 600;
     line-height: 23px;
     letter-spacing: 0%;
@@ -117,7 +112,6 @@
 /* purpose-styles */
 .why-dev {
     width: 1140px;
-    /* height: 1093px; */
     padding: 50px 97px;
     margin: 70px;
     display: flex;
@@ -125,19 +119,13 @@
     justify-content: center;
     align-items: center;
     gap: 10;
-
-
     border-radius: 16px;
-
     background: rgba(13, 19, 33, 0.02);
 }
 
 .purpose-container {
     margin: 0px;
     padding: 0px;
-
-
-
 }
 
 .purpose-container .title {
@@ -150,7 +138,7 @@
 .purpose-container .title h1 {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: 800;
     line-height: 37px;
     letter-spacing: 0%;
@@ -160,14 +148,12 @@
 .purpose-container .title p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0%;
     text-align: center;
     opacity: 0.7;
-
-
 }
 
 .purpose-container .purpose-a {
@@ -181,7 +167,7 @@
 .purpose-container .purpose-a h2 {
     color: rgba(13, 19, 33, 0.7);
     font-family: Azeret Mono;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     line-height: 36px;
     letter-spacing: 0%;
@@ -191,7 +177,7 @@
 .purpose-container .purpose-a p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0%;
@@ -203,7 +189,7 @@
 .purpose-container .purpose-a button {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 600;
     line-height: 23px;
     letter-spacing: 0%;
@@ -231,7 +217,7 @@
 .purpose-container .purpose-b h2 {
     color: rgba(13, 19, 33, 0.7);
     font-family: Azeret Mono;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     line-height: 36px;
     letter-spacing: 0%;
@@ -241,7 +227,7 @@
 .purpose-container .purpose-b p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0%;
@@ -253,7 +239,7 @@
 .purpose-container .purpose-b button {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 600;
     line-height: 23px;
     letter-spacing: 0%;
@@ -270,8 +256,6 @@
 }
 
 .purpose-container .purpose-c {
-
-
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -282,7 +266,7 @@
 .purpose-container .purpose-c h2 {
     color: rgba(13, 19, 33, 0.7);
     font-family: Azeret Mono;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     line-height: 36px;
     letter-spacing: 0%;
@@ -292,7 +276,7 @@
 .purpose-container .purpose-c p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0%;
@@ -304,7 +288,7 @@
 .purpose-container .purpose-c button {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 600;
     line-height: 23px;
     letter-spacing: 0%;
@@ -332,7 +316,6 @@
     gap: 48;
     padding: 0px;
     margin: 100px 180px;
-    /* background-color: aqua; */
 
 }
 
@@ -344,7 +327,7 @@
 .inspiration .inspiration-top h1 {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: 800;
     line-height: 37px;
     letter-spacing: 0%;
@@ -354,7 +337,7 @@
 .inspiration .inspiration-top p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0%;
@@ -383,16 +366,16 @@
 
 }
 
+/* current-target */
 .target .current-target {
     width: 1140px;
     height: 460px;
 }
 
-/* current-target */
 .target .current-target>h1 {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: 800;
     line-height: 37px;
     letter-spacing: 0%;
@@ -402,7 +385,7 @@
 .target .current-target>p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0%;
@@ -411,6 +394,63 @@
 
 }
 
+.target .current-target .target-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 48px;
+    gap: 30px;
+}
+.target-content h2 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 1.5rem;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.target-content p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+
+}
+
+.target-content h3 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+.target-content .html {
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+
+.target-content .css {
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+
+.target-content .js {
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
 /* next-target */
 .next-target {
     width: 1140px;
@@ -421,7 +461,7 @@
 .target .next-target>h1 {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: 800;
     line-height: 37px;
     letter-spacing: 0%;
@@ -431,7 +471,7 @@
 .target .next-target>p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0%;
@@ -449,7 +489,6 @@
     box-sizing: border-box;
     border: 1px solid rgba(13, 19, 33, 0.15);
     border-radius: 16px;
-
     background: rgb(255, 255, 255);
     margin-top: 24px;
     padding: 40px;
@@ -468,7 +507,7 @@
 .box .content .h2 {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 800;
     line-height: 36px;
     letter-spacing: 0%;
@@ -478,7 +517,7 @@
 .box .content p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0%;
@@ -490,7 +529,7 @@
 .box .content h3 {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 700;
     line-height: 19px;
     letter-spacing: 0%;
@@ -499,90 +538,25 @@
 }
 
 
-
-.target .current-target .target-content {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin-top: 48px;
-
-    gap: 30px;
-}
-
-.target-content h2 {
-    color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
-    font-size: 24px;
-    font-weight: 800;
-    line-height: 36px;
-    letter-spacing: 0%;
-    text-align: left;
-}
-
-.target-content p {
-    color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
-    letter-spacing: 0%;
-    text-align: left;
-    opacity: 0.7;
-
-}
-
-.target-content h3 {
-    color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
-    font-size: 16px;
-    font-weight: 700;
-    line-height: 19px;
-    letter-spacing: 0%;
-    text-align: left;
-    text-decoration-line: underline;
-}
-
-.target-content .html {
-    padding: 40px;
-    border-radius: 16px;
-
-    background: rgba(255, 76, 30, 0.05);
-}
-
-.target-content .css {
-    padding: 40px;
-    border-radius: 16px;
-
-    background: rgba(0, 76, 232, 0.05);
-}
-
-.target-content .js {
-    padding: 40px;
-    border-radius: 16px;
-
-    background: rgba(255, 223, 0, 0.05);
-}
 
 /* section-support */
 .support {
     width: 1055px;
     height: 380px;
     background-image: url(../assets/handshake.jpg);
-
     background-size: 100% 100%;
     background-position: center;
     background-repeat: no-repeat;
     margin: 50px 150px 50px 180px;
     padding: 64px 48px;
     border-radius: 16px;
-
     background: rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), url(Email);
 }
 
 .support h1 {
     color: rgb(255, 255, 255);
     font-family: Azeret Mono;
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: 700;
     line-height: 36px;
     letter-spacing: 0%;
@@ -592,7 +566,7 @@
 .support p {
     color: rgb(255, 255, 255);
     font-family: Azeret Mono;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0%;
@@ -611,7 +585,7 @@
 .support .btn .btn-a {
     color: rgba(13, 19, 33, 0.4);
     font-family: Azeret Mono;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 19px;
     letter-spacing: 0%;
@@ -620,7 +594,6 @@
     box-sizing: border-box;
     border: 1px solid rgba(13, 19, 33, 0.15);
     border-radius: 8px;
-
     background: rgb(255, 255, 255);
 
 }
@@ -628,7 +601,7 @@
 .support .btn .btn-b {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 600;
     line-height: 23px;
     letter-spacing: 0%;
@@ -642,7 +615,6 @@
 /* footer-section */
 footer {
     border-radius: 16px;
-
     background: rgba(13, 19, 33, 0.03);
 }
 
@@ -655,7 +627,7 @@ footer {
 .footer-a p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 600;
     line-height: 23px;
     letter-spacing: 0%;
@@ -666,4 +638,283 @@ footer {
     display: flex;
     gap: 20px;
     list-style: none;
+}
+
+/* Global Styles */
+.azeret-mono-normal {
+    font-family: "Azeret Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Header */
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1490px;
+    margin: 38px auto 40px auto;
+    padding: 0 20px;
+}
+
+.header-top h2 {
+    font-size: 1.75rem;
+    font-weight: 800;
+}
+
+.header-top button {
+    font-size: 1.25rem;
+    font-weight: 600;
+    padding: 17px 24px;
+    border: 1px solid rgb(13, 19, 33);
+    border-radius: 8px;
+    opacity: 0.8;
+    background: none;
+}
+
+/* Hero Section */
+.hero-bg {
+    background-image: url(../assets/Hero-bg.png);
+    width: 100%;
+    max-width: 1485px;
+    height: auto;
+    border-style: dashed;
+    padding: 50px 20px;
+}
+
+.hero-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.hero-container h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-top: 50px;
+}
+
+.hero-container p {
+    font-size: 1rem;
+    opacity: 0.7;
+}
+
+.hero-container button {
+    font-size: 1.25rem;
+    font-weight: 600;
+    padding: 21px 24px;
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+    color: #fff;
+    margin-top: 20px;
+}
+
+/* Responsive Breakpoints */
+
+/* Small Devices (up to 576px) */
+@media (max-width: 576px) {
+    .header-top {
+        flex-direction: column;
+        text-align: center;
+    }
+    .header-top h2 {
+        font-size: 1.5rem;
+    }
+    .hero-container h1 {
+        font-size: 2rem;
+        line-height: 40px;
+    }
+    .hero-container p {
+        font-size: 0.9rem;
+    }
+    .why-dev {
+        width: 100%;
+        padding: 30px;
+    }
+    .purpose-container .purpose-a,
+    .purpose-container .purpose-b,
+    .purpose-container .purpose-c {
+        flex-direction: column;
+        text-align: center;
+    }
+    .inspiration{
+        margin-top: -200px;
+    }
+    .inspiration, .target, .next-target, .next-target-content .box, .support {
+        width: 100%;
+        /* margin: 20px;
+        padding: 20px; */
+    }
+
+    .inspiration-video, .target-content, .support .btn
+     {
+        /* display: flex;  */
+        flex-direction: column;
+        align-items: center;
+    }
+    .inspiration .inspiration-video {
+        width: auto;
+        height: auto;}
+
+
+        .target .current-target {
+            width: 100%;
+            margin-top: -250px;
+            /* padding: 20px; */
+        }
+    
+        .target .current-target > h1 {
+            font-size: 1.5rem;
+        }
+    
+        .target .current-target > p {
+            font-size: 0.9rem;
+        }
+    
+        .target .current-target .target-content {
+            width: 100%; /* Make it flexible */
+            height: 300px; /* Adjust height as needed */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            overflow-y: auto; /* Enables vertical scrolling */
+            overflow-x: hidden; /* Prevents horizontal scrolling */
+            gap: 15px; /* Space between elements */
+            padding: 10px; /* Adds spacing inside the container */
+            scrollbar-width: thin; /* Customizes scrollbar for Firefox */
+            scrollbar-color: #888 #f1f1f1; /* Scrollbar track and thumb colors */
+            border: 2px solid #888;
+        }
+        
+        /* Scrollbar styles for Webkit browsers (Chrome, Safari) */
+        .target .current-target .target-content::-webkit-scrollbar {
+            width: 8px; /* Adjust width */
+        }
+        
+        .target .current-target .target-content::-webkit-scrollbar-track {
+            background: #f1f1f1; /* Track color */
+        }
+        
+        .target .current-target .target-content::-webkit-scrollbar-thumb {
+            background: #888; /* Scrollbar color */
+            border-radius: 4px; /* Rounded edges */
+        }
+        
+        .target .current-target .target-content::-webkit-scrollbar-thumb:hover {
+            background: #555; /* Darker color on hover */
+        }
+        
+        /* .target-content h2 {
+            font-size: 1.25rem;
+        }
+    
+        .target-content p {
+            font-size: 0.9rem;
+        }
+    
+        .target-content h3 {
+            font-size: 0.9rem;
+        } */
+        .next-target {
+            width: auto;
+            height: auto;
+            margin-top: 100px;
+        }
+        .next-target-content  {
+            width: auto;
+            height: auto;
+            flex-direction: column;
+            /* overflow: scroll; */
+            overflow-y: scroll;
+            border: 2px solid #888;
+            display: flex;
+            gap: 20px;
+            
+        }
+        .box{
+            flex-direction: column;
+        }
+        .box >.content> p{
+            overflow: scroll;
+        }
+    .footer-a {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+/* Medium Devices (576px - 992px) */
+@media (min-width: 576px) and (max-width: 992px) {
+    .header-top {
+        justify-content: space-between;
+        padding: 0 40px;
+    }
+    .hero-container h1 {
+        font-size: 2.5rem;
+    }
+    .hero-container p {
+        font-size: 1rem;
+    }
+    .why-dev {
+        width: 90%;
+        padding: 40px;
+    }
+    .purpose-container .purpose-a,
+    .purpose-container .purpose-b,
+    .purpose-container .purpose-c {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .inspiration, .target, .next-target, .support {
+        width: 90%;
+        margin: 50px auto;
+    }
+
+    .target .current-target, .next-target-content .box {
+        width: 100%;
+    }
+ .target .current-target {
+        width: 90%;
+        height: auto;
+        margin: auto;
+    }
+
+    .target .current-target .target-content {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+    .footer-a {
+        padding: 20px;
+    }
+}
+
+/* Large Devices (993px and above) */
+@media (min-width: 993px) {
+    .header-top {
+        max-width: 1490px;
+    }
+    .hero-container h1 {
+        font-size: 3rem;
+    }
+    .hero-container p {
+        font-size: 1rem;
+    }
+    .why-dev {
+        width: 1140px;
+    }
+    .inspiration, .target, .next-target, .support {
+        max-width: 1140px;
+        margin: 100px auto;
+    }
+
+    .target-content {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
 }
